@@ -1,0 +1,50 @@
+# Python / uv / Virtual Envs
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+.python-version
+
+# uv
+.uv/
+uv.lock.bak
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# Logs / Temp Files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Build / Distribution
+build/
+dist/
+wheelhouse/
+*.whl
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# OS Junk
+.DS_Store
+.DS_Store?
+Thumbs.db
+desktop.ini
+
+# Environment Variables / Secrets
+.env
+.env.*
+*.env
