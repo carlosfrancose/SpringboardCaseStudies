@@ -1,0 +1,7 @@
+[project]
+name = "unit25-2-logistic-regression"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
