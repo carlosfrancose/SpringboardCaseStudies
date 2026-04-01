@@ -1,0 +1,15 @@
+[project]
+name = "unit28-2-bayesian-optimization"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bayesian-optimization>=3.2.1",
+    "catboost>=1.2.10",
+    "ipykernel>=7.2.0",
+    "lightgbm>=4.6.0",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "scikit-learn>=1.8.0",
+]
